@@ -1,0 +1,38 @@
+﻿  adda.cpp
+  Card Center.cpp
+C:\Users\l\CODE\Card Center.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  dd.cpp
+  ddd.cpp
+C:\Users\l\CODE\ddd.cpp(9,2): error C3861: “getline”: 找不到标识符
+C:\Users\l\CODE\ddd.cpp(10,2): error C3861: “getline”: 找不到标识符
+  dds.cpp
+  demo (2).cpp
+  demo.cpp
+  p.cpp
+  ppo.cpp
+  reverse.cpp
+  string基础.cpp
+  string进阶.cpp
+C:\Users\l\CODE\string进阶.cpp(12,11): error C2059: 语法错误:“{”
+C:\Users\l\CODE\string进阶.cpp(12,11): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\l\CODE\string进阶.cpp(15,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\l\CODE\string进阶.cpp(20,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+  test.cpp
+C:\Users\l\CODE\test.cpp(11,2): error C3861: “getline”: 找不到标识符
+C:\Users\l\CODE\test.cpp(12,16): warning C4018: “<”: 有符号/无符号不匹配
+  字符串.cpp
+C:\Users\l\CODE\字符串.cpp(10,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\l\CODE\字符串.cpp(13,3): error C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+C:\Users\l\CODE\字符串.cpp(14,3): error C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\Users\l\CODE\字符串.cpp(17,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  查找.cpp
+C:\Users\l\CODE\查找.cpp(7,2): error C3861: “getline”: 找不到标识符
+C:\Users\l\CODE\查找.cpp(8,2): error C3861: “getline”: 找不到标识符
+  源.cpp
+c1xx : fatal error C1083: 无法打开源文件: “源.cpp”: No such file or directory
+  源1.cpp
+C:\Users\l\CODE\源1.cpp(7,10): error C2440: “=”: 无法从“int **”转换为“int *”
+C:\Users\l\CODE\源1.cpp(7,7): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Users\l\CODE\源1.cpp(8,11): error C2440: “=”: 无法从“int ***”转换为“int *”
+C:\Users\l\CODE\源1.cpp(8,7): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+  正在生成代码...
